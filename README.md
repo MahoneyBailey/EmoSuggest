@@ -10,33 +10,25 @@ EmoSuggest analyzes micro-expressions, facial movements, typing rhythm, thought 
 - Live predictive suggestions in any text field
 - 100% on-device privacy (no data leaves your iPhone)
 - Seamless integration with Apple Intelligence
-- Typing rhythm & pause analysis for deeper context
 
 ## 🚀 Tech Stack
 - SwiftUI + Foundation Models
 - ARKit (TrueDepth blend shapes)
 - Core ML (on-device self-training)
-- App Intents for Siri/Apple Intelligence interoperability
-- iOS 18+
+- App Intents
 
-## 📥 Installation
+**iOS 18+ • TrueDepth device required**
+
+## 📥 Quick Start
 1. Clone the repo
-2. Open in Xcode
-3. Run on iOS 18+ device (TrueDepth required)
-4. Grant camera permissions for emotion tracking
+2. Open `EmoSuggest.xcodeproj` in Xcode
+3. Run on device & grant camera permissions
 
 **TestFlight beta coming soon!**
 
-## 🛣️ Roadmap
-- [ ] Keyboard extension
-- [ ] macOS support
-- [ ] Advanced model marketplace
-- [ ] Enterprise / defense use cases
-
 ## 💰 Monetization
-Open core available here. **Pro features, commercial licenses, and enterprise versions available** on Gumroad (see MONETIZATION.md).
+Open core here. **Pro features, commercial licenses, and enterprise versions available** on Gumroad (link in MONETIZATION.md).
 
-## ⭐ Support
-Star this repo if you're excited about the future of intuitive AI interfaces!
+⭐ Star if you're building the future of intuitive AI!
 
 #AppleIntelligence #EmotionAI #OnDeviceAI #ARKit #CoreML
