@@ -21,7 +21,7 @@ EmoSuggest analyzes micro-expressions, facial movements, typing rhythm, thought 
 
 ## 📥 Quick Start
 1. Clone the repo
-2. Open `EmoSuggest.xcodeproj` in Xcode
+2. Open in Xcode
 3. Run on device & grant camera permissions
 
 **TestFlight beta coming soon!**
