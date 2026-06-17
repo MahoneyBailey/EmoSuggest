@@ -17,4 +17,4 @@ Interested in bundling with AgentForge or other tools? Reach out via GitHub Issu
 
 **All commercial use of this code requires a license.** See LICENSE for details.
 
-Built by Bailey // Founder & CEO of AgentForge, Inc.
+Built by Bailey / Pathfinder Federal Solutions.
