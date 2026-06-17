@@ -1,6 +1,3 @@
-# EmoSuggest
-# EmoSuggest: AI Reads Face &amp; Mind as You Type  On-device iOS app powered by Apple Intelligence, ARKit TrueDepth &amp; self-training Core ML.  Detects micro-expressions, movements, typing rhythm &amp; pauses for hyper-personalized live suggestions.  100% private • Adapts to YOU. Smarter writing.  ⭐ Star if building next-gen AI! iOS 18+
-
 # EmoSuggest: AI That Reads Your Face & Mind While You Type
 
 **Revolutionary on-device iOS app** powered by **Apple Intelligence**, ARKit TrueDepth camera, and self-training Core ML models.
@@ -37,7 +34,7 @@ EmoSuggest analyzes micro-expressions, facial movements, typing rhythm, thought 
 - [ ] Enterprise / defense use cases
 
 ## 💰 Monetization
-Open core available here. Pro features and commercial licenses via Gumroad / contact.
+Open core available here. **Pro features, commercial licenses, and enterprise versions available** on Gumroad (see MONETIZATION.md).
 
 ## ⭐ Support
 Star this repo if you're excited about the future of intuitive AI interfaces!
