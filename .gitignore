@@ -1,0 +1,32 @@
+# Xcode
+*.xcworkspace
+*.xcodeproj/project.xcworkspace
+*.xcodeproj/xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# Core ML models (large files)
+*.mlmodelc
+*.mlpackage
+
+# Sensitive
+.env
+*.p8
+*.p12
